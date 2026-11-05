@@ -15,7 +15,7 @@ shared as-is in the hope that they are useful to other researchers.
 As a plugin (recommended, so you receive updates):
 
 ```
-/plugin marketplace add <github-user>/econ-research-skills
+/plugin marketplace add leightjessica/Claude-skills
 /plugin install econ-research-skills@econ-research-skills
 ```
 
