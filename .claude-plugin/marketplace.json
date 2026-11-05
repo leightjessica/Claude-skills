@@ -1,0 +1,11 @@
+{
+  "name": "econ-research-skills",
+  "owner": { "name": "Jessica Leight" },
+  "plugins": [
+    {
+      "name": "econ-research-skills",
+      "source": "./",
+      "description": "Replication-package prep, code-paper alignment audits, and policy presentations for empirical research."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "econ-research-skills",
+  "description": "Claude Code skills for empirical economics research: replication-package prep, code-paper alignment audits, and policy presentations.",
+  "version": "1.0.0",
+  "author": { "name": "Jessica Leight" },
+  "license": "MIT",
+  "keywords": ["economics", "replication", "stata", "research", "presentations"]
+}
